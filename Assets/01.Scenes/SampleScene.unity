@@ -466,6 +466,9 @@ MonoBehaviour:
   - {fileID: 32900000, guid: 840c0f4c0ceae974f96a27749bd7156d, type: 3}
   - {fileID: 32900000, guid: b78a93d1de85b384799faf3580f71350, type: 3}
   - {fileID: 32900000, guid: 301db5d3b2ad4944780f12c4f0353f51, type: 3}
+  _episodes:
+  - {fileID: 11400000, guid: 54fd821a5228ffd42acedf5e149be607, type: 2}
+  - {fileID: 11400000, guid: 3e7d8d8312f841445a8e557a2f7a1f6c, type: 2}
 --- !u!1 &1075475703
 GameObject:
   m_ObjectHideFlags: 0
